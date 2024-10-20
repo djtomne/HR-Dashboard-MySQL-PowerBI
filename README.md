@@ -1,4 +1,5 @@
 # HR-Dashboard-MySQL-PowerBI
+![HR EMPLOYEE DISTRIBUTION DASHBOARD](HR_Page1.png)
 
 
 
